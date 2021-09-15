@@ -15,7 +15,7 @@ GO
 -- =============================================
 ALTER PROCEDURE [dbo].[SP_CONSULTA_EMPLOYEE_JGA]
 	-- Add the parameters for the stored procedure here
-	@VARCHAR VARCHAR(2)
+	@Gender VARCHAR(2)
 
 AS
 BEGIN
@@ -24,7 +24,7 @@ BEGIN
 	SET NOCOUNT ON;
 
     -- Insert statements for procedure here
-	SELECT * FROM HumanResources.Employee WHERE Gender = @VARCHAR
+	SELECT * FROM HumanResources.Employee WHERE Gender = @Gender
 
 END
 GO
