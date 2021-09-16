@@ -33,6 +33,8 @@ BEGIN
 
    --Se debe agregar un if en esta seccion en la rama cabecera
 >>>>>>> cabecera
+
+  --Esta es otra linea adicional hora : 11:20
 END
 GO
 
