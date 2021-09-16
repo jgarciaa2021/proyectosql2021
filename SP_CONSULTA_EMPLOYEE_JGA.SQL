@@ -26,8 +26,13 @@ BEGIN
     -- Insert statements for procedure here
 	SELECT * FROM HumanResources.Employee WHERE Gender = @Gender
 
+<<<<<<< HEAD
  --Esta es una linea para agregar un if desde la rama master
 
+=======
+
+   --Se debe agregar un if en esta seccion en la rama cabecera
+>>>>>>> cabecera
 END
 GO
 
