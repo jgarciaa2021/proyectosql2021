@@ -35,6 +35,9 @@ BEGIN
   --Esta es otra linea adicional hora : 11:20
   
   --Agregumos otra linea a las 11:58 
+
+ --Comentario agregado desde la rama Subconsulta1 linea 40
+
 END
 GO
 
