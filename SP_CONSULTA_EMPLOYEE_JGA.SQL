@@ -29,8 +29,8 @@ BEGIN
  --Esta es una linea para agregar un if desde la rama master
 
 
- --Se debe agregar un if en esta seccion en la rama cabecera
-   --Se debe agregar un if en esta seccion en la rama cabecera
+ --Se debe agregar un If en esta seccion en la rama cabecera
+   --Se debe agregar un If en esta seccion en la rama cabecera
 
   --Esta es otra linea adicional hora : 11:20
   
