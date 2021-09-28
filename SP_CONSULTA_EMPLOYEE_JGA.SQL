@@ -38,6 +38,9 @@ BEGIN
 
  --Comentario agregado desde la rama Subconsulta1 linea 40
 
+  --Agregumos otra linea a las 11:58
+
+  --Comentario agregado desde la rama Subconsulta2 linea 41 
 END
 GO
 
